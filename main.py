@@ -5,3 +5,8 @@ print("Hello, World!")
 #python3 <nome do arquivo.py>
 #Exemplo:
 #python3 exercicio1_salario.py
+
+#Lista de exercícios 1: https://docs.google.com/document/d/1STuLzo0N0MS86Lw7UdUxjjA62yR3G46SbZJrDaGSDOo/edit
+
+#Lista de exercícios 2:https://docs.google.com/document/d/19YvKUjj4Q094IWapxC_8NOFC3ylMN79W6xCHIMrzBN8/edit
+
