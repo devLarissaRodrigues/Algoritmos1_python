@@ -8,5 +8,7 @@ print("Hello, World!")
 
 #Lista de exercícios 1: https://docs.google.com/document/d/1STuLzo0N0MS86Lw7UdUxjjA62yR3G46SbZJrDaGSDOo/edit
 
-#Lista de exercícios 2:https://docs.google.com/document/d/19YvKUjj4Q094IWapxC_8NOFC3ylMN79W6xCHIMrzBN8/edit
+#Lista de exercícios 2: 2:https://docs.google.com/document/d/19YvKUjj4Q094IWapxC_8NOFC3ylMN79W6xCHIMrzBN8/edit
+
+#Lista de exercícios 3: https://onedrive.live.com/view.aspx?resid=D6FC07AF6612B1B8!300647&ithint=file%2cdocx&authkey=!AHXAcJNEvDjw_YE
 
