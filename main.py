@@ -13,4 +13,3 @@ print("Hello, World!")
 #Lista de exercícios 3: https://onedrive.live.com/view.aspx?resid=D6FC07AF6612B1B8!300647&ithint=file%2cdocx&authkey=!AHXAcJNEvDjw_YE
 
 #Lista de exercícios 4: https://docs.google.com/document/d/1jwxMYCcfaofvUzsnaO3QW8WvfWcjI-FocnHsoE4I6SI/edit
-
