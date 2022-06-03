@@ -25,3 +25,4 @@ imposto_renda = (base_calculo * aliquota) - parcela_deduzir
 
 print(f"O valor do imposto de renda é de R$ {imposto_renda:.2f}")
 
+81985357
